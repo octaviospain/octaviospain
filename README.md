@@ -13,7 +13,7 @@
 - Looking for a new challenge (a full time job)
 - Maintaining open-source projects:
   - [**music-commons**](https://github.com/octaviospain/music-commons) - Reactive Kotlin library for audio management
-  - [**lirp**](https://github.com/octaviospain/lirp) -Lightweight Reactive Persistence: A reactive library for persistence using DDD
+  - [**lirp**](https://github.com/octaviospain/lirp) - Lightweight Reactive Persistence: A reactive library for persistence using DDD
   - [**musicott**](https://github.com/octaviospain/musicott) - Music app written with JavaFX, under heavy redesign currently
 
 ## 🌍 Living off grid 🚐 in Europe between Spain and Finland 🇪🇸🇫🇮
