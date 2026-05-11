@@ -6,7 +6,7 @@
 - 🏗️ Building robust backend systems with **Java** & **Kotlin**
 - 🔄 Reactive programming & concurrent systems
 - 🐧 GNU/Linux advocate & homelab enthusiast
-- 🛰️ Cybersecurity analyst & Incident Handler (GIAC certification in progress)
+- 🛰️ Cybersecurity analyst & Incident Handler rookie
 - 🎵 Audio tech & music software development (DJ in my free time, since 2010)
 
 ## 🛠️ Currently
